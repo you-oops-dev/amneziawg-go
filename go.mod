@@ -1,4 +1,4 @@
-module github.com/amnezia-vpn/amneziawg-go
+module github.com/naruto522ru/amneziawg-go
 
 go 1.20
 
