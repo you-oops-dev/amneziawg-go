@@ -1,4 +1,4 @@
-module github.com/naruto522ru/amneziawg-go
+module github.com/you-oops-dev/amneziawg-go
 
 go 1.20
 
