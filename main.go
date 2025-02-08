@@ -14,10 +14,10 @@ import (
 	"runtime"
 	"strconv"
 
-	"github.com/naruto522ru/amneziawg-go/conn"
-	"github.com/naruto522ru/amneziawg-go/device"
-	"github.com/naruto522ru/amneziawg-go/ipc"
-	"github.com/naruto522ru/amneziawg-go/tun"
+	"github.com/you-oops-dev/amneziawg-go/conn"
+	"github.com/you-oops-dev/amneziawg-go/device"
+	"github.com/you-oops-dev/amneziawg-go/ipc"
+	"github.com/you-oops-dev/amneziawg-go/tun"
 	"golang.org/x/sys/unix"
 )
 

@@ -20,8 +20,8 @@ import (
 
 	"golang.org/x/sys/unix"
 
-	"github.com/naruto522ru/amneziawg-go/conn"
-	"github.com/naruto522ru/amneziawg-go/rwcancel"
+	"github.com/you-oops-dev/amneziawg-go/conn"
+	"github.com/you-oops-dev/amneziawg-go/rwcancel"
 )
 
 func (device *Device) startRouteListener(bind conn.Bind) (*rwcancel.RWCancel, error) {

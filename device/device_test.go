@@ -20,10 +20,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/naruto522ru/amneziawg-go/conn"
-	"github.com/naruto522ru/amneziawg-go/conn/bindtest"
-	"github.com/naruto522ru/amneziawg-go/tun"
-	"github.com/naruto522ru/amneziawg-go/tun/tuntest"
+	"github.com/you-oops-dev/amneziawg-go/conn"
+	"github.com/you-oops-dev/amneziawg-go/conn/bindtest"
+	"github.com/you-oops-dev/amneziawg-go/tun"
+	"github.com/you-oops-dev/amneziawg-go/tun/tuntest"
 )
 
 // uapiCfg returns a string that contains cfg formatted use with IpcSet.

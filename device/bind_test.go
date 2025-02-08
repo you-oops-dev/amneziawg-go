@@ -8,7 +8,7 @@ package device
 import (
 	"errors"
 
-	"github.com/naruto522ru/amneziawg-go/conn"
+	"github.com/you-oops-dev/amneziawg-go/conn"
 )
 
 type DummyDatagram struct {

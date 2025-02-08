@@ -5,7 +5,7 @@
 
 package device
 
-import "github.com/naruto522ru/amneziawg-go/conn"
+import "github.com/you-oops-dev/amneziawg-go/conn"
 
 /* Reduce memory consumption for Android */
 

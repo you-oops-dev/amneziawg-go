@@ -11,11 +11,11 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/naruto522ru/amneziawg-go/conn"
-	"github.com/naruto522ru/amneziawg-go/ipc"
-	"github.com/naruto522ru/amneziawg-go/ratelimiter"
-	"github.com/naruto522ru/amneziawg-go/rwcancel"
-	"github.com/naruto522ru/amneziawg-go/tun"
+	"github.com/you-oops-dev/amneziawg-go/conn"
+	"github.com/you-oops-dev/amneziawg-go/ipc"
+	"github.com/you-oops-dev/amneziawg-go/ratelimiter"
+	"github.com/you-oops-dev/amneziawg-go/rwcancel"
+	"github.com/you-oops-dev/amneziawg-go/tun"
 	"github.com/tevino/abool/v2"
 )
 
